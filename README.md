@@ -13,7 +13,7 @@ Nice to e-meet you! Thank you for visiting my Github page!
 🎨 Outside of computer: enjoy experimenting food
 
 Technologies & tools 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,scss,react,angular,vue,flutter,react native,nodejs,express,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,react,angular,vue,flutter,nodejs,express,mysql)](https://skillicons.dev)
 
 ### Connect with me 
 
